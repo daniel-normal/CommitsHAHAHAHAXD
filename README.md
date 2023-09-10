@@ -5,7 +5,7 @@ Lingzu
 *Integrantes 
     -Daniel Miranda
     -Gabriel Racua
-    -Jose Andres
+    -Jose Andres cuñado
     -Bryan Espejos
     -Brayan M. Chavez
 *Descripcion
