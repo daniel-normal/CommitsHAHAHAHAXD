@@ -5,7 +5,7 @@ Lingzu
 *Integrantes 
     -Daniel Miranda
     -Gabriel Racua
-    -Jose Andres. Quiero A tu hermana 
+    -Jose Andres
     -Bryan Espejos
     -Brayan M. Chavez
 *Descripcion
